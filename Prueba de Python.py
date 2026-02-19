@@ -2,6 +2,6 @@
 
 a = 10
 b = 30
-c = 30 * 10
+c = 30 * 10 * 5
 
-print ('resultado =', 300)
+print ('resultado =', c)
