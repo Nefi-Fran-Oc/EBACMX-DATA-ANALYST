@@ -1,4 +1,4 @@
-#Prueba de Python
+#Prueba de Python code
 
 a = 10
 b = 30
